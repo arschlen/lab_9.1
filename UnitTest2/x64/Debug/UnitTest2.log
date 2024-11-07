@@ -1,0 +1,8 @@
+﻿  UnitTest2.cpp
+     Creating library C:\Users\AdminPC\Desktop\палітра\ап\коди\lab_9.1\x64\Debug\UnitTest2.lib and object C:\Users\AdminPC\Desktop\палітра\ап\коди\lab_9.1\x64\Debug\UnitTest2.exp
+UnitTest2.obj : error LNK2019: unresolved external symbol "void __cdecl nsSum::sum(void)" (?sum@nsSum@@YAXXZ) referenced in function "public: void __cdecl UnitTest2::UnitTest2::TestMethod1(void)" (?TestMethod1@UnitTest2@1@QEAAXXZ)
+UnitTest2.obj : error LNK2001: unresolved external symbol "int nsVar::n" (?n@nsVar@@3HA)
+UnitTest2.obj : error LNK2001: unresolved external symbol "double nsVar::x" (?x@nsVar@@3NA)
+UnitTest2.obj : error LNK2001: unresolved external symbol "double nsVar::e" (?e@nsVar@@3NA)
+UnitTest2.obj : error LNK2001: unresolved external symbol "double nsVar::s" (?s@nsVar@@3NA)
+C:\Users\AdminPC\Desktop\палітра\ап\коди\lab_9.1\x64\Debug\UnitTest2.dll : fatal error LNK1120: 5 unresolved externals
